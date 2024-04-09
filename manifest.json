@@ -1,0 +1,41 @@
+{
+    "name": "Bogdan Fuiorea | altrought",
+    "short_name": "Bogdan Fuiorea",
+    "start_url": "/Portfolio/index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF", 
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/Portfolio/assets/img/work/reel/pic.jpeg",
+        "type": "image/png", 
+        "sizes": "72x72"
+      },
+      {
+        "src": "/Portfolio/assets/img/work/reel/pic.jpeg",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "/Portfolio/assets/img/work/reel/pic.jpeg",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "/Portfolio/assets/img/work/reel/pic.jpeg",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/Portfolio/assets/img/work/reel/pic.jpeg",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "/Portfolio/assets/img/img/work/reel/pic.jpeg",
+        "type": "image/png",
+        "sizes": "196x196"
+      }
+    ]
+  }
